@@ -54,6 +54,11 @@ a { color: var(--accent); }
 
 .muted { color: var(--muted); }
 
+.lang-switch {
+  font-size: 15px;
+  margin-bottom: 16px;
+}
+
 .hero {
   display: flex;
   align-items: center;
